@@ -1,4 +1,4 @@
-# 
+# Leve Bumblebee modelos. Com implantação de modelos e arquitetura escalável — otimizado para máximo desempenho e eficiência.
 
 
 
